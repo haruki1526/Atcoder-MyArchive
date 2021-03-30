@@ -4,7 +4,7 @@
 #include<cmath>
 #include<map>
 
-#define ALL(x) (x).begin(), (x)end()
+#define ALL(x) (x).begin(), (x).end()
 #define FOR(i,begin,end) for(int i=(begin);i<(end);i++)
 
 #define INF 1000000000000000000
